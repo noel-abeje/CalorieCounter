@@ -10,7 +10,7 @@ Time spent: **8** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] **At least one health metric is tracked (based on user input)**
+- [ ] **At least one health metric is tracked (based on user input)**
   - Chosen metric(s): `[Calorie Tracker]`
 - [x] **There is a "create entry" UI that prompts users to make their daily entry**
 - [x] **New entries are saved in a database and then updated in the RecyclerView**
